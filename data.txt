@@ -1,0 +1,1 @@
+query_id=AAFiGr1SAAAAAGIavVJP0yTK&user=%7B%22id%22%3A1388124770%2C%22first_name%22%3A%22Jek%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22zakimakhasin%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725197148&hash=33d56f938c1eace7153ddc8c942bc1b049e60ad6518bb0a65946ef57483a5b09
